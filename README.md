@@ -1,25 +1,30 @@
-# ReduxSimpleStarter
+# ReactJs Blog Posts App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Uses http://reduxblog.herokuapp.com/ Api to save Posts
 
-### Getting Started
+### Packages Used
 
-There are two methods for getting started with this repo.
+```
+>react
+>redux
+>redux-form
+>redux-promise
+>redux-form
+>lodash
+>react-router
+>axios
+```
 
-#### Familiar with Git?
+#### Steps to run?
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/with-shrey/BlogPosts.git
+> cd BlogPosts
 > npm install
 > npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
-> npm install
-> npm start
-```
+
+#open localhost:8080/posts after setting up
+
